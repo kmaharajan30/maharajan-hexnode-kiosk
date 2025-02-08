@@ -9,7 +9,7 @@ const Register = () => {
     <Box mx="auto" w="88%">
       <MainLayout
         title="Turn your devices into kiosks in a few minutes with Hexnode UEM"
-        backgroundImg="/src/assets/images/layout.webp"
+        backgroundImg="/images/layout.webp"
         submitText="get started now!"
         onSubmit={handleFormSubmit}
       />

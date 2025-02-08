@@ -2,7 +2,7 @@ export const content = [
   {
     id: 1,
     title: "Powerful Single-App Kiosk solutions for enhanced control",
-    imgSrc: "/src/assets/images/useContent/singlekiosk.webp",
+    imgSrc: "/images/useContent/singlekiosk.webp",
     subContent: [
       {
         id: 1,
@@ -29,7 +29,7 @@ export const content = [
   {
     id: 2,
     title: "Elevate efficiency with Multi-App Kiosk",
-    imgSrc: "/src/assets/images/useContent/mutikiosk.webp",
+    imgSrc: "/images/useContent/mutikiosk.webp",
     subContent: [
       {
         id: 1,
@@ -56,7 +56,7 @@ export const content = [
   {
     id: 3,
     title: "Explore the new way to manage web apps and websites",
-    imgSrc: "/src/assets/images/useContent/webKiosk.webp",
+    imgSrc: "/images/useContent/webKiosk.webp",
     subContent: [
       {
         id: 1,
@@ -82,7 +82,7 @@ export const content = [
   {
     id: 4,
     title: "Capture attention with Digital Signage Kiosks",
-    imgSrc: "/src/assets/images/useContent/digitalKiosk.webp",
+    imgSrc: "/images/useContent/digitalKiosk.webp",
     subContent: [
       {
         id: 1,
@@ -114,7 +114,7 @@ export const content = [
   {
     id: 5,
     title: "Unlock the power of Autonomous Single App Mode (ASAM)",
-    imgSrc: "/src/assets/images/useContent/asamKiosk.webp",
+    imgSrc: "/images/useContent/asamKiosk.webp",
     subContent: [
       {
         id: 1,
